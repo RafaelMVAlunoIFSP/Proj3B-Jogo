@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"dano2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.873458,
+  "name":"dano2",
+  "parent":{
+    "name":"Danos",
+    "path":"folders/Sons/Danos.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"dano2.mp3",
+  "type":0,
+  "volume":0.75,
+}

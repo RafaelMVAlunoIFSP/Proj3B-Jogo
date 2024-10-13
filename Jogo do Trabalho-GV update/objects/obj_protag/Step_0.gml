@@ -1,0 +1,8 @@
+
+if (vivo == true)
+{
+	
+	handlePulo()
+	
+}
+
