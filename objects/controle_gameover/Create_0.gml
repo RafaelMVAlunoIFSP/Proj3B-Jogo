@@ -1,1 +1,0 @@
-audio_play_sound(game_over,0,true)
