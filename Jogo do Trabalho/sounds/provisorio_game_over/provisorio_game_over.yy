@@ -12,8 +12,8 @@
   "duration":41.195084,
   "name":"provisorio_game_over",
   "parent":{
-    "name":"Sons",
-    "path":"folders/Sons.yy",
+    "name":"Musicas",
+    "path":"folders/Sons/Musicas.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

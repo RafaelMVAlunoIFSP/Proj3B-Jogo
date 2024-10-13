@@ -6,8 +6,8 @@
   "name":"obj_chao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Cenário",
+    "path":"folders/Objetos/Cenário.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_chao",
     "path":"sprites/spr_chao/spr_chao.yy",

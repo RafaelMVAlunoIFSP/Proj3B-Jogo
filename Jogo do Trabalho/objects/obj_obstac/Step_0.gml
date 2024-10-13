@@ -1,27 +1,27 @@
-if (vivo = true)
+if self.vivo
 {
 	// Velocidade
-
-	x -= 5
+	//show_debug_message("X: " + string(x) + "; Y: " + string(y))
+	if global.player_dead_state == false{
+		x -= 5
+	}
+	
+	if (x + self.sprite_width/2) + 50 < view_xport //-  view_wport
+	{	
+		//show_debug_message("Distruindo!")
+		instance_destroy(self)
+	}
+	
 
 	// Loop do Meteoro
 
-	if (x >= -120 and x <= -100)
-	{
-		x = 1450
-	}
+
 
 	// Reset
-
-	if (place_meeting(x-16,y,obj_protag))
-	{
-		hspeed += 0
-		vivo = false
-	}
 }
 
-else if (keyboard_check_pressed(vk_space))
+else 
 {
-	x = 1450
-	vivo = true
+	instance_destroy(self)
 }
+	

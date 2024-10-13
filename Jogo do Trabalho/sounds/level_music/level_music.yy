@@ -12,8 +12,8 @@
   "duration":27.480791,
   "name":"level_music",
   "parent":{
-    "name":"Sons",
-    "path":"folders/Sons.yy",
+    "name":"Musicas",
+    "path":"folders/Sons/Musicas.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"level_music.mp3",
   "type":0,
-  "volume":0.95,
+  "volume":1.0,
 }
