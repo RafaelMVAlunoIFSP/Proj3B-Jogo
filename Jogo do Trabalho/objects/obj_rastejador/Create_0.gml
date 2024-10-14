@@ -1,3 +1,0 @@
-vivo = true
-tocouPlayer = false
-
