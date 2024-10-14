@@ -43,7 +43,7 @@ tempo_entre_inim_spawns = 2.5 // 2.5 segundos
 
 inimigo_simples_escala = 2.9375 // tamanho
 
-INIMIGOS_DEFAULT_Y = 683
+INIMIGOS_DEFAULT_Y = 627
 
 
 // Atualizar relogio do jogo
@@ -95,6 +95,7 @@ function playerMorreu(){
 	
 	inst_60ADEB33.vspeed = 0 
 	audio_stop_sound(level_music)
+	room_goto(GameOver)
 	
 	//show_debug_message("Player Morreu")
 	

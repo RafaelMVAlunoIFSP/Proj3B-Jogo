@@ -15,6 +15,9 @@
     {"name":"inst_131A27D8","path":"rooms/Gameplay/Gameplay.yy",},
     {"name":"inst_88268D2","path":"rooms/Gameplay/Gameplay.yy",},
     {"name":"inst_173294F6","path":"rooms/Gameplay/Gameplay.yy",},
+    {"name":"inst_75382359","path":"rooms/Gameplay/Gameplay.yy",},
+    {"name":"inst_67B85C96","path":"rooms/Gameplay/Gameplay.yy",},
+    {"name":"inst_1D6FE3FF","path":"rooms/Gameplay/Gameplay.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -27,6 +30,9 @@
       ],"layers":[],"name":"Controles","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Interface","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_88268D2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_88268D2","objectId":{"name":"voltar_menu","path":"objects/voltar_menu/voltar_menu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-0.7008132,"scaleX":2.5,"scaleY":1.5,"x":-240.68958,"y":463.49884,},
+        {"$GMRInstance":"v1","%Name":"inst_75382359","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_75382359","objectId":{"name":"obj_vida","path":"objects/obj_vida/obj_vida.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-3.0,"scaleY":3.0,"x":128.0,"y":32.0,},
+        {"$GMRInstance":"v1","%Name":"inst_67B85C96","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_67B85C96","objectId":{"name":"obj_vida","path":"objects/obj_vida/obj_vida.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-3.0,"scaleY":3.0,"x":224.0,"y":32.0,},
+        {"$GMRInstance":"v1","%Name":"inst_1D6FE3FF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1D6FE3FF","objectId":{"name":"obj_vida","path":"objects/obj_vida/obj_vida.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-3.0,"scaleY":3.0,"x":320.0,"y":32.0,},
       ],"layers":[],"name":"Interface","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Inimigos","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Inimigos","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Projeteis","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Projeteis","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},

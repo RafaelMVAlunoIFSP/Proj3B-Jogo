@@ -8,6 +8,7 @@ if self.vivo
 	
 	if global.player_dead_state == false {
 		x -= 5
+		image_angle += irandom_range(3, 6)
 	}
 
 	// Loop do Meteoro
